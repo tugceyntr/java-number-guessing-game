@@ -76,6 +76,7 @@ sayi-tahmin-oyunu/
 │       ├── TahminOyunu.java   # Konsol oyun akışı (Subclass)
 │       └── Main.java          # Uygulama giriş noktası (Main Class)
 │
+├── docs/                      # Proje raporu ve akış diyagramı (PDF)
 ├── .gitignore                 # Git tarafından yok sayılacak dosyalar
 └── README.md                  # Proje dokümantasyonu
 ```
